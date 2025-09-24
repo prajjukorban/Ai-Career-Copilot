@@ -1,4 +1,3 @@
-# genai.configure(api_key="AIzaSyBMl0IeB6js1nuAFE3Dtjzn1eFN__LCfTs")
 import streamlit as st
 from pypdf import PdfReader
 import google.generativeai as genai
