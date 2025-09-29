@@ -1,5 +1,3 @@
-Here’s a sample README.md you can use (or adapt) for your Ai-Career-Copilot project. You can fill in the details (badges, installation commands, usage examples) as per your actual code and setup.
-
 # Ai-Career-Copilot
 
 An AI-powered assistant for career growth: mock interviews, resume optimization, skill gap analysis, and personalized learning roadmaps.
@@ -26,15 +24,6 @@ An AI-powered assistant for career growth: mock interviews, resume optimization,
 
 Ai-Career-Copilot/ │ ├── app.py                  # main application / server ├── gemini.ipynb            # notebook (experiments, analysis, model work) ├── UpdatedResumeDataSet.csv # sample dataset used ├── README.md               # this file └── … (other modules, front-end files, templates)
 
----
-
-## 🧰 Technologies & Dependencies
-
-- Python  
-- Flask / FastAPI (or whatever web framework you used)  
-- Machine Learning / NLP libraries (e.g. transformers, spaCy, sklearn)  
-- Frontend: HTML, CSS, JavaScript (if any)  
-- Any other libraries (list in requirements.txt)  
 
 ---
 
@@ -69,9 +58,6 @@ python app.py
 ---
 
 🧪 Usage Examples
-
-Mock interview:
-Choose a role (e.g. “Backend Developer”) → start interview → answer questions → get feedback.
 
 Resume upload:
 Upload your resume → get suggestions for improvement (formatting, keywords, skill highlights).
