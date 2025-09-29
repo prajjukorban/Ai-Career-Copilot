@@ -117,26 +117,3 @@ Contributing:
 
 
 
-
----
-
-👤 Author
-
-Prajju (or your real name)
-Contact: [your email or link]
-
-
----
-
-🧾 References & Acknowledgements
-
-Any papers, libraries, or tutorials you built upon
-
-Datasets used
-
-Inspiration (other projects)
-
-
-If you want, I can generate a polished README for *your actual code base* by inspecting your repository structure in detail and filling missing parts. Do you want me to prepare that for you?0
-
-﻿# Ai-Career-Copilot
