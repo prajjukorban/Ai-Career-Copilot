@@ -2,6 +2,9 @@
 
 An AI-powered assistant for career growth: mock interviews, resume optimization, skill gap analysis, and personalized learning roadmaps.
 
+
+User Interface: <img src="https://github.com/prajjukorban/Ai-Career-Copilot/blob/main/UI.png">
+
 ---
 
 ## 🚀 Features
@@ -113,6 +116,7 @@ Contributing:
 
 
 4. Submit Pull Request
+
 
 
 
