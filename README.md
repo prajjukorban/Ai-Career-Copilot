@@ -2,6 +2,8 @@
 
 An AI-powered assistant for career growth: mock interviews, resume optimization, skill gap analysis, and personalized learning roadmaps.
 
+🔗 **Live Demo:** [Click here to view the deployed app](https://ai-career-copilot-toty.onrender.com/)
+
 
 User Interface: <img src="https://github.com/prajjukorban/Ai-Career-Copilot/blob/main/UI.png">
 
@@ -116,6 +118,7 @@ Contributing:
 
 
 4. Submit Pull Request
+
 
 
 
