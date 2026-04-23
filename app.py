@@ -8,7 +8,7 @@ model = genai.GenerativeModel("gemini-2.5-flash")
 
 st.set_page_config(page_title="Resume Career Guide", layout="centered")
 st.title("📄 AI Career Copilot")
-st.write("Upload your resume and get instant career role prediction & missing skills suggestion")
+st.write("Upload your resume and get instant career role prediction, ATS score & missing skills suggestion")
 
 # File uploader
 uploaded_file = st.file_uploader("Upload your Resume (PDF only)", type=["pdf"])
@@ -18,7 +18,7 @@ if uploaded_file is not None:
     text = ""
     for page in reader.pages:
         text += page.extract_text()
-    query = text + "\n\nThis is my resume. Predict the most suitable role and tell me what skills are missing (in 2–4 lines). Be honest and act as a career guide."
+    query = text + "\n\nThis is my resume. Predict the most suitable role and tell me what skills are missing with ats score (in 2–4 lines). Be honest and act as a career guide."
 
 
     with st.spinner("Analyzing your resume..."):
