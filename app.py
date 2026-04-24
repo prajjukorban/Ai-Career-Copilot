@@ -9,7 +9,7 @@ from docx.enum.text import WD_ALIGN_PARAGRAPH
 from docx.oxml.ns import qn
 from docx.oxml import OxmlElement
 
-genai.configure(api_key="AIzaSyCkxHF6VQxDQmupikUhfor5jzi1LObmYA8")
+genai.configure(api_key=env.API_KEY)
 model = genai.GenerativeModel("gemini-2.5-flash")
 
 st.set_page_config(page_title="AI Career Copilot", layout="centered")
